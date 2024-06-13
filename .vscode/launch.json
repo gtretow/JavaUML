@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch iPhone2007",
+      "request": "launch",
+      "mainClass": "com.exemplo.dispositivo.iPhone2007",
+      "projectName": "src"
+    }
+  ]
+}
