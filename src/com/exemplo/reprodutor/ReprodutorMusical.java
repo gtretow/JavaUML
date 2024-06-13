@@ -1,7 +1,7 @@
 package com.exemplo.reprodutor;
 
 public interface ReprodutorMusical {
-    void tocar();
-    void pausar();
-    void selecionarMusica(String musica);
+    void playMusic();
+    void pauseMusic();
+    void selectMusic(String musica);
 }

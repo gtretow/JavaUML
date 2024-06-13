@@ -1,7 +1,7 @@
 package com.exemplo.navegador;
 
 public interface NavegadorNaInternet {
-    void exibirPagina(String url);
-    void adicionarNovaAba();
-    void atualizarPagina();
+    void browser(String url);
+    void addNewTab();
+    void refreshPage();
 }
